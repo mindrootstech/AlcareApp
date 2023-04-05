@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">141344113859-oue7l30kafne6d1uqo2nqbkhvmkgugbc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">141344113859</string>
+    <string name="google_api_key" translatable="false">AIzaSyAXoi3LSA39tG-JfHW3l36mAsQCkIf5oKk</string>
+    <string name="google_app_id" translatable="false">1:141344113859:android:849d0d13f058049dff0e76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAXoi3LSA39tG-JfHW3l36mAsQCkIf5oKk</string>
+    <string name="google_storage_bucket" translatable="false">alcare-92bc1.appspot.com</string>
+    <string name="project_id" translatable="false">alcare-92bc1</string>
+</resources>

@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_activecalculationtab.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_activecalculationtab.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_addexpenseicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_addexpenseicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_camera.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_camera.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_privacy.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_privacy.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xhdpi_launch_screen.jpg.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable-xhdpi/launch_screen.jpg"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_launch_screen.jpg.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable-xxxhdpi/launch_screen.jpg"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_noarea.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_noarea.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_nomedia.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nomedia.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-hdpi_launch_screen.jpg.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable-hdpi/launch_screen.jpg"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_greenbttn.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_greenbttn.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable_launch_screen.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable/launch_screen.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_notesblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_notesblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_cuteye.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_cuteye.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_trash.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_trash.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_mediabg.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_mediabg.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_privacyicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_privacyicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_activeviewclient.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_activeviewclient.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_addnotesicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_addnotesicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_arrow.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_arrow.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_logout.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_logout.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_addnotecontact.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_addnotecontact.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_lenceblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_lenceblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_backblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_backblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_launch_screen.jpg.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable-xxhdpi/launch_screen.jpg"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_slideicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_slideicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_nonotes.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nonotes.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_homeicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_homeicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_noexpense.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_noexpense.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_clientviewicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_clientviewicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_redbttn.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_redbttn.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_tickicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_tickicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_curvedtabbackground.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_curvedtabbackground.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_notification.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_notification.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_client.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_client.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_noinfo.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_noinfo.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_addclienticon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_addclienticon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_placeprofile.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_placeprofile.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_activesettingtab.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_activesettingtab.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_settingicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_settingicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable_autofill_highlight.xml.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/drawable/autofill_highlight.xml"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_noclient.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_noclient.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_curvedtabbarbackground.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_curvedtabbarbackground.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_crossblack.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_crossblack.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_clockcalender.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_clockcalender.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_doc.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_doc.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_expense_profile.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_expense_profile.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_eye.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_eye.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_calender.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_calender.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/layout_launch_screen.xml.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_nonotify.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nonotify.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_closseye.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_closseye.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_calculationicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_calculationicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_activehometab.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_activehometab.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_nocontact.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nocontact.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_plus_icon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_plus_icon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_callblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_callblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_nonotifypic.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_nonotifypic.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_massegeblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_massegeblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_arrowdownblue.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_arrowdownblue.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_minusicon.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_minusicon.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_user.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_user.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_media.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_media.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_redarrow.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_redarrow.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_clock.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_clock.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnativethumbnailvideo_src_assets_play.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnativethumbnailvideo_src_assets_play.png"
+    },
+    {
+        "merged": "/Users/minerootsios/alcare/android/app/build/intermediates/merged_res/release/drawable-mdpi_src_assets_whitepencil.png.flat",
+        "source": "/Users/minerootsios/alcare/android/app/build/generated/res/react/release/drawable-mdpi/src_assets_whitepencil.png"
+    }
+]

@@ -1,0 +1,27 @@
+export const Colors = {
+  white: '#fff',
+  black: '#000',
+  theamColor: '#006D9B',
+  navigationTitle: '#6E6B7B',
+  colorDarkBlue: '#006D9B',
+  colorDarkGray: '#6E6B7B',
+  colorShadow: 'rgba(0, 0, 0, 0.25)',
+  colorClientListElement: '#FBFBFB',
+  colorClientAddressText: '#9E9E9E',
+  backgroundMain: '#C4C4C4',
+  colorChangePswrd: '#00B3FF',
+  colorLightPurple: '#EFF4FF',
+  colorNavyBlue: '#006D9B',
+  switchBackground: '#A8A8A8',
+
+  cardColor: '#EFF4FF',
+  textColor: '#9E9E9E',
+  textBoldColor: '#6E6B7B',
+  borderColor: '#D9D9D9',
+  dropDwnView: '#D9D9D940',
+
+  colorLightGray: '#D9D9D9',
+  colorLightSkyBlue: '#EFF4FF',
+  coloLightYellow: '#FFF5EF',
+  colorBackgroundGray: '#F5F5F5',
+}

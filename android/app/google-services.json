@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "141344113859",
+    "project_id": "alcare-92bc1",
+    "storage_bucket": "alcare-92bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141344113859:android:849d0d13f058049dff0e76",
+        "android_client_info": {
+          "package_name": "com.alcare.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141344113859-oue7l30kafne6d1uqo2nqbkhvmkgugbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoi3LSA39tG-JfHW3l36mAsQCkIf5oKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141344113859-oue7l30kafne6d1uqo2nqbkhvmkgugbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141344113859-jckjils88n2l6pdj4lm2p0ehar9nuaso.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.Alcare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141344113859:android:cdaac13e9e693bdaff0e76",
+        "android_client_info": {
+          "package_name": "com.android.alcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141344113859-oue7l30kafne6d1uqo2nqbkhvmkgugbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXoi3LSA39tG-JfHW3l36mAsQCkIf5oKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141344113859-oue7l30kafne6d1uqo2nqbkhvmkgugbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141344113859-jckjils88n2l6pdj4lm2p0ehar9nuaso.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.Alcare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

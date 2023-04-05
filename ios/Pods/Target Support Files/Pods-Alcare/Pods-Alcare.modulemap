@@ -1,0 +1,6 @@
+module Pods_Alcare {
+  umbrella header "Pods-Alcare-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,1209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+MERGED from [:react-native-splash-screen] /Users/minerootsios/alcare/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] /Users/minerootsios/alcare/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] /Users/minerootsios/alcare/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-date-picker] /Users/minerootsios/alcare/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] /Users/minerootsios/alcare/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-document-picker] /Users/minerootsios/alcare/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/minerootsios/alcare/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-localization] /Users/minerootsios/alcare/node_modules/react-native-localization/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-maps] /Users/minerootsios/alcare/node_modules/react-native-maps/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/minerootsios/alcare/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/minerootsios/alcare/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/minerootsios/alcare/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-version-check] /Users/minerootsios/alcare/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-21:12
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/minerootsios/.gradle/caches/transforms-3/068ab29645ee5ba736a94e5740b232d6/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/2cd44d9a2782b82b8c71c1b177699a9c/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/minerootsios/.gradle/caches/transforms-3/dde8e329c7c870585dd7fa9a11087c5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:17:1-62:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/minerootsios/.gradle/caches/transforms-3/00fb1058454de2d4394c067c91557f18/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:15:1-40:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/fe64d76388b8564f4ea272fd9f82da24/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0f322659fa8ce1b07f6dec3f520fb856/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/e83d65692561d60b0fbf6d1121dce69a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4099e2dda16ae6de61c62ae62f5bea3e/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0613e156db9032d866572b0e5a8f59ed/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/c797b49d057e4f6a4170fd3b929c6df5/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/f8d4c741d8ff9e098f66dcdc872a5cc1/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/2b85f8506924a0fcecf1575f81b7383e/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4851cea2bfb3e0dc7ab51cb2d033dd79/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/aa45f5245ce5480d3569538472f693d1/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/1e1941283ae2b17add5b347bed7953e2/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/minerootsios/.gradle/caches/transforms-3/9b1a55187cc2dfdf509808141613e3aa/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/711d1dc27ac4be2e59179205d1e63330/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/04bf80964f83af39ef0053a3efcd6ef2/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/3b64426d52c8c2d11b0dd27e5138c1b6/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/30dc1549328fc90336ab5648cc7e7b9f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/minerootsios/.gradle/caches/transforms-3/813ee4254306e5f132c34e1378d617bd/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/minerootsios/.gradle/caches/transforms-3/4e85c000f7c6c3b87ff40a1c18f874b7/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/a6e8f466161359e6c30dc3ec16b15166/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/b0705c50ef3aebcebce90b3b8d01f4f1/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/minerootsios/.gradle/caches/transforms-3/e984e189cb82a40596d2d82530edf4a6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/minerootsios/.gradle/caches/transforms-3/3e505b3fb520718d45f1153c6085686e/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/minerootsios/.gradle/caches/transforms-3/88406d47c8cd98a70ead977c27a04530/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/1c579525e077140411a24b839c9e9286/transformed/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/475c43a024cd3d671de42d501f670d91/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3f691790fa569bc0ae5063e5c704d395/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/minerootsios/.gradle/caches/transforms-3/dabd375bf6cd5a85373819b39b7bf3b2/transformed/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/ccc2bdf144aece8896a43d1e39401fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/minerootsios/.gradle/caches/transforms-3/cc95570c2114232e1ac1894adb65ef31/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/minerootsios/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/66cdd28b37d3c36cd44cbe3956187995/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/1c60818cbd83a161ee5d2647d76ee944/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/b027d4caee4a27481fd32f3e74686157/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/minerootsios/.gradle/caches/transforms-3/fe9c639d0e4f80fac25c34979a38bc48/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/bb5773f354545b611d13b02b599661cd/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/6757bdb798854f5a38916d71c6d71d4f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ef410c8e7029c206d623b4d61ac397/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/minerootsios/.gradle/caches/transforms-3/e03b59720f90c2d1bd210bffa0b5aba5/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/5f7854dd1c5c57113826b21daceedf35/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/274dfd005d2c1b52a6575919a546b452/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/f8130c01ec4772193e35d5a05eb1e1b7/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/a902811e79f710dfa78ef73f70eb18d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/8217e457c5a2799938f0110edb588332/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/minerootsios/.gradle/caches/transforms-3/7ab6bf3b187fc810059b4859f79b529c/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/e4e69444c0b4724d72ac649aa7b01640/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/62cf8b707a436b2b20463893c16283d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/35cc3fecf6105024581a77cbcfbe7b94/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/f3826d992da6a6e543a73042c48357d5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minerootsios/.gradle/caches/transforms-3/f524b9a4ef231267e226158397f2edbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/491da0a62fa1d31af4c336f0c10e73d4/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/d89e99d0588152c830326ff8dc71c339/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/165282b76c0906d4ff23dc1c8666ef1a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/06edddb045b54cd039dc32ec6304d3c0/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/a006828d663f6b152b11581ce385cccb/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ace43e5ee27fc68a17c8fcbf6ac503/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0086976d1051e5ad7fb491a11192f079/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/dbce2d10bc22574de813318526a80224/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/a1403e0aa68fa066fcb5e0e03be1f449/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/077f735d64adc33a390a59753b4cf583/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/2041e529b8c2152511cd8983ddecf02a/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/0e0a2659db736519416c3208765fde9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/be7aaa73bd072ca0ab9d9eb7f916b7b7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/minerootsios/.gradle/caches/transforms-3/20dd45b0cf3c8c022713c2b39439a0ab/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/minerootsios/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:2:1-13:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/72de326bd5521a424ff400c382d90310/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/cf8b52ac4f01aa68ae528541c31ccb80/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+	package
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:1-64:12
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-81
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:5-81
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:8:5-88
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:8:22-85
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:11:5-80
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-feature#android.hardware.camera
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:12:5-85
+	android:required
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:12:58-82
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:13:5-91
+	android:required
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:13:64-88
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:13:19-63
+application
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:14:5-63:19
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:5-43:19
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/minerootsios/.gradle/caches/transforms-3/068ab29645ee5ba736a94e5740b232d6/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/minerootsios/.gradle/caches/transforms-3/068ab29645ee5ba736a94e5740b232d6/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:31:5-60:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/minerootsios/.gradle/caches/transforms-3/813ee4254306e5f132c34e1378d617bd/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/minerootsios/.gradle/caches/transforms-3/813ee4254306e5f132c34e1378d617bd/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/minerootsios/.gradle/caches/transforms-3/4e85c000f7c6c3b87ff40a1c18f874b7/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/minerootsios/.gradle/caches/transforms-3/4e85c000f7c6c3b87ff40a1c18f874b7/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/minerootsios/.gradle/caches/transforms-3/e984e189cb82a40596d2d82530edf4a6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/minerootsios/.gradle/caches/transforms-3/e984e189cb82a40596d2d82530edf4a6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/minerootsios/.gradle/caches/transforms-3/3e505b3fb520718d45f1153c6085686e/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/minerootsios/.gradle/caches/transforms-3/3e505b3fb520718d45f1153c6085686e/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/minerootsios/.gradle/caches/transforms-3/88406d47c8cd98a70ead977c27a04530/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/minerootsios/.gradle/caches/transforms-3/88406d47c8cd98a70ead977c27a04530/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/475c43a024cd3d671de42d501f670d91/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/475c43a024cd3d671de42d501f670d91/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minerootsios/.gradle/caches/transforms-3/f524b9a4ef231267e226158397f2edbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minerootsios/.gradle/caches/transforms-3/f524b9a4ef231267e226158397f2edbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/minerootsios/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/minerootsios/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:7:5-11:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:16:7-39
+	android:exported
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:18:7-30
+	android:icon
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:17:7-41
+	android:allowBackup
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:19:7-34
+	android:theme
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:20:7-38
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:15:7-38
+activity#com.alcare.MainActivity
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:21:7-34:18
+	android:screenOrientation
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:23:11-47
+	android:label
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:24:9-41
+	android:launchMode
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:27:9-48
+	android:exported
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:28:9-32
+	android:configChanges
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:25:9-118
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:22:9-37
+intent-filter#action:name:android.intent.action.DOWNLOAD_COMPLETE+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:29:9-33:25
+action#android.intent.action.MAIN
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:30:13-65
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:30:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:31:13-73
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:31:23-70
+action#android.intent.action.DOWNLOAD_COMPLETE
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:32:13-78
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:32:21-75
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:35:7-37:64
+	android:value
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:37:7-62
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:36:7-52
+meta-data#com.dieam.reactnativepushnotification.notification_foreground
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:39:9-40:43
+	android:value
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:40:21-41
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:39:21-97
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:42:9-43:54
+	android:resource
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:43:21-52
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:42:21-92
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationActions
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:45:9-108
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:45:19-105
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:46:9-110
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:46:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:47:9-54:20
+	android:exported
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:48:13-36
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:47:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:50:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:51:17-82
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:51:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:52:25-79
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:57:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:59:13-61:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:60:17-78
+	android:name
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml:60:25-75
+uses-sdk
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-splash-screen] /Users/minerootsios/alcare/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/minerootsios/alcare/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/minerootsios/alcare/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/minerootsios/alcare/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/minerootsios/alcare/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/minerootsios/alcare/node_modules/@react-native-community/geolocation/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-date-picker] /Users/minerootsios/alcare/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] /Users/minerootsios/alcare/node_modules/react-native-date-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/minerootsios/alcare/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/minerootsios/alcare/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/minerootsios/alcare/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-document-picker] /Users/minerootsios/alcare/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/minerootsios/alcare/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/minerootsios/alcare/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localization] /Users/minerootsios/alcare/node_modules/react-native-localization/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-localization] /Users/minerootsios/alcare/node_modules/react-native-localization/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/minerootsios/alcare/node_modules/react-native-maps/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/minerootsios/alcare/node_modules/react-native-maps/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/minerootsios/alcare/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/minerootsios/alcare/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/minerootsios/alcare/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/minerootsios/alcare/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/minerootsios/alcare/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/minerootsios/alcare/node_modules/react-native-screens/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-version-check] /Users/minerootsios/alcare/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-version-check] /Users/minerootsios/alcare/node_modules/react-native-version-check/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/minerootsios/.gradle/caches/transforms-3/068ab29645ee5ba736a94e5740b232d6/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.2] /Users/minerootsios/.gradle/caches/transforms-3/068ab29645ee5ba736a94e5740b232d6/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/2cd44d9a2782b82b8c71c1b177699a9c/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/2cd44d9a2782b82b8c71c1b177699a9c/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/minerootsios/.gradle/caches/transforms-3/dde8e329c7c870585dd7fa9a11087c5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/minerootsios/.gradle/caches/transforms-3/dde8e329c7c870585dd7fa9a11087c5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/minerootsios/.gradle/caches/transforms-3/00fb1058454de2d4394c067c91557f18/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/minerootsios/.gradle/caches/transforms-3/00fb1058454de2d4394c067c91557f18/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/fe64d76388b8564f4ea272fd9f82da24/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/fe64d76388b8564f4ea272fd9f82da24/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0f322659fa8ce1b07f6dec3f520fb856/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0f322659fa8ce1b07f6dec3f520fb856/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/e83d65692561d60b0fbf6d1121dce69a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/e83d65692561d60b0fbf6d1121dce69a/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4099e2dda16ae6de61c62ae62f5bea3e/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4099e2dda16ae6de61c62ae62f5bea3e/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0613e156db9032d866572b0e5a8f59ed/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/0613e156db9032d866572b0e5a8f59ed/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/c797b49d057e4f6a4170fd3b929c6df5/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/c797b49d057e4f6a4170fd3b929c6df5/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/f8d4c741d8ff9e098f66dcdc872a5cc1/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/f8d4c741d8ff9e098f66dcdc872a5cc1/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/2b85f8506924a0fcecf1575f81b7383e/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/2b85f8506924a0fcecf1575f81b7383e/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4851cea2bfb3e0dc7ab51cb2d033dd79/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/4851cea2bfb3e0dc7ab51cb2d033dd79/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/aa45f5245ce5480d3569538472f693d1/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/aa45f5245ce5480d3569538472f693d1/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/1e1941283ae2b17add5b347bed7953e2/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/1e1941283ae2b17add5b347bed7953e2/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/minerootsios/.gradle/caches/transforms-3/9b1a55187cc2dfdf509808141613e3aa/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/minerootsios/.gradle/caches/transforms-3/9b1a55187cc2dfdf509808141613e3aa/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/711d1dc27ac4be2e59179205d1e63330/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/711d1dc27ac4be2e59179205d1e63330/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/04bf80964f83af39ef0053a3efcd6ef2/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/04bf80964f83af39ef0053a3efcd6ef2/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/3b64426d52c8c2d11b0dd27e5138c1b6/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/3b64426d52c8c2d11b0dd27e5138c1b6/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/30dc1549328fc90336ab5648cc7e7b9f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/30dc1549328fc90336ab5648cc7e7b9f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/minerootsios/.gradle/caches/transforms-3/813ee4254306e5f132c34e1378d617bd/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/minerootsios/.gradle/caches/transforms-3/813ee4254306e5f132c34e1378d617bd/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/minerootsios/.gradle/caches/transforms-3/4e85c000f7c6c3b87ff40a1c18f874b7/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] /Users/minerootsios/.gradle/caches/transforms-3/4e85c000f7c6c3b87ff40a1c18f874b7/transformed/jetified-play-services-location-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/a6e8f466161359e6c30dc3ec16b15166/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/a6e8f466161359e6c30dc3ec16b15166/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/b0705c50ef3aebcebce90b3b8d01f4f1/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.1] /Users/minerootsios/.gradle/caches/transforms-3/b0705c50ef3aebcebce90b3b8d01f4f1/transformed/jetified-play-services-auth-base-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/minerootsios/.gradle/caches/transforms-3/e984e189cb82a40596d2d82530edf4a6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/minerootsios/.gradle/caches/transforms-3/e984e189cb82a40596d2d82530edf4a6/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/minerootsios/.gradle/caches/transforms-3/3e505b3fb520718d45f1153c6085686e/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/minerootsios/.gradle/caches/transforms-3/3e505b3fb520718d45f1153c6085686e/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/minerootsios/.gradle/caches/transforms-3/88406d47c8cd98a70ead977c27a04530/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/minerootsios/.gradle/caches/transforms-3/88406d47c8cd98a70ead977c27a04530/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/1c579525e077140411a24b839c9e9286/transformed/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/1c579525e077140411a24b839c9e9286/transformed/jetified-firebase-installations-interop-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/475c43a024cd3d671de42d501f670d91/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/475c43a024cd3d671de42d501f670d91/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3f691790fa569bc0ae5063e5c704d395/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3f691790fa569bc0ae5063e5c704d395/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/minerootsios/.gradle/caches/transforms-3/dabd375bf6cd5a85373819b39b7bf3b2/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/minerootsios/.gradle/caches/transforms-3/dabd375bf6cd5a85373819b39b7bf3b2/transformed/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/ccc2bdf144aece8896a43d1e39401fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/ccc2bdf144aece8896a43d1e39401fc8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/minerootsios/.gradle/caches/transforms-3/cc95570c2114232e1ac1894adb65ef31/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/minerootsios/.gradle/caches/transforms-3/cc95570c2114232e1ac1894adb65ef31/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/minerootsios/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] /Users/minerootsios/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/66cdd28b37d3c36cd44cbe3956187995/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/66cdd28b37d3c36cd44cbe3956187995/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/1c60818cbd83a161ee5d2647d76ee944/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/1c60818cbd83a161ee5d2647d76ee944/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/b027d4caee4a27481fd32f3e74686157/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/b027d4caee4a27481fd32f3e74686157/transformed/jetified-firebase-components-17.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/minerootsios/.gradle/caches/transforms-3/fe9c639d0e4f80fac25c34979a38bc48/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/minerootsios/.gradle/caches/transforms-3/fe9c639d0e4f80fac25c34979a38bc48/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/bb5773f354545b611d13b02b599661cd/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/bb5773f354545b611d13b02b599661cd/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/6757bdb798854f5a38916d71c6d71d4f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/6757bdb798854f5a38916d71c6d71d4f/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ef410c8e7029c206d623b4d61ac397/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ef410c8e7029c206d623b4d61ac397/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/minerootsios/.gradle/caches/transforms-3/e03b59720f90c2d1bd210bffa0b5aba5/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/minerootsios/.gradle/caches/transforms-3/e03b59720f90c2d1bd210bffa0b5aba5/transformed/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/5f7854dd1c5c57113826b21daceedf35/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/5f7854dd1c5c57113826b21daceedf35/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/274dfd005d2c1b52a6575919a546b452/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/274dfd005d2c1b52a6575919a546b452/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/f8130c01ec4772193e35d5a05eb1e1b7/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/f8130c01ec4772193e35d5a05eb1e1b7/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/a902811e79f710dfa78ef73f70eb18d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/a902811e79f710dfa78ef73f70eb18d1/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/8217e457c5a2799938f0110edb588332/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/8217e457c5a2799938f0110edb588332/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/minerootsios/.gradle/caches/transforms-3/7ab6bf3b187fc810059b4859f79b529c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/minerootsios/.gradle/caches/transforms-3/7ab6bf3b187fc810059b4859f79b529c/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/e4e69444c0b4724d72ac649aa7b01640/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/e4e69444c0b4724d72ac649aa7b01640/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/minerootsios/.gradle/caches/transforms-3/bd0132704e0e7d36cbd43628c3622b83/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/62cf8b707a436b2b20463893c16283d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/62cf8b707a436b2b20463893c16283d2/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/35cc3fecf6105024581a77cbcfbe7b94/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/35cc3fecf6105024581a77cbcfbe7b94/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/f3826d992da6a6e543a73042c48357d5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/f3826d992da6a6e543a73042c48357d5/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minerootsios/.gradle/caches/transforms-3/f524b9a4ef231267e226158397f2edbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/minerootsios/.gradle/caches/transforms-3/f524b9a4ef231267e226158397f2edbd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/491da0a62fa1d31af4c336f0c10e73d4/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/491da0a62fa1d31af4c336f0c10e73d4/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/d89e99d0588152c830326ff8dc71c339/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/d89e99d0588152c830326ff8dc71c339/transformed/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/165282b76c0906d4ff23dc1c8666ef1a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/165282b76c0906d4ff23dc1c8666ef1a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/06edddb045b54cd039dc32ec6304d3c0/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/06edddb045b54cd039dc32ec6304d3c0/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/a006828d663f6b152b11581ce385cccb/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/a006828d663f6b152b11581ce385cccb/transformed/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ace43e5ee27fc68a17c8fcbf6ac503/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/c6ace43e5ee27fc68a17c8fcbf6ac503/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0086976d1051e5ad7fb491a11192f079/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/minerootsios/.gradle/caches/transforms-3/0086976d1051e5ad7fb491a11192f079/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/dbce2d10bc22574de813318526a80224/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/minerootsios/.gradle/caches/transforms-3/dbce2d10bc22574de813318526a80224/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/a1403e0aa68fa066fcb5e0e03be1f449/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/a1403e0aa68fa066fcb5e0e03be1f449/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/077f735d64adc33a390a59753b4cf583/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/077f735d64adc33a390a59753b4cf583/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/2041e529b8c2152511cd8983ddecf02a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/2041e529b8c2152511cd8983ddecf02a/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/0e0a2659db736519416c3208765fde9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/0e0a2659db736519416c3208765fde9b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/be7aaa73bd072ca0ab9d9eb7f916b7b7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/be7aaa73bd072ca0ab9d9eb7f916b7b7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/minerootsios/.gradle/caches/transforms-3/20dd45b0cf3c8c022713c2b39439a0ab/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] /Users/minerootsios/.gradle/caches/transforms-3/20dd45b0cf3c8c022713c2b39439a0ab/transformed/jetified-numberpickerview-v1.1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/minerootsios/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] /Users/minerootsios/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:5:5-43
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/72de326bd5521a424ff400c382d90310/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /Users/minerootsios/.gradle/caches/transforms-3/72de326bd5521a424ff400c382d90310/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/cf8b52ac4f01aa68ae528541c31ccb80/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/minerootsios/.gradle/caches/transforms-3/cf8b52ac4f01aa68ae528541c31ccb80/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/minerootsios/alcare/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:5-79
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:5-76
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/minerootsios/alcare/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-68
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-68
+MERGED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-95
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/minerootsios/alcare/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:53:9-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/minerootsios/alcare/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:13-88
+queries
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-13:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:21-70
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:13-25:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/minerootsios/alcare/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/minerootsios/alcare/node_modules/react-native-webview/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-70
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] /Users/minerootsios/alcare/node_modules/rn-fetch-blob/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:13-62
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:26:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:29:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/minerootsios/.gradle/caches/transforms-3/c3a5b1470ebf29464cbd340b94c33c7e/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/f003837cf708787d86712b9027ec49ca/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:29:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:32:9-39:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:33:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:45:9-52:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:48:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:47:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:46:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:56:13-58:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:58:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.0.7] /Users/minerootsios/.gradle/caches/transforms-3/a20813f49072324496f1d0dc8c033a5d/transformed/jetified-firebase-messaging-23.0.7/AndroidManifest.xml:57:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.5] /Users/minerootsios/.gradle/caches/transforms-3/50e6d9d865e6ddd3ecd2b24c17a638e1/transformed/jetified-firebase-datatransport-18.1.5/AndroidManifest.xml:29:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/a113310820dcb954519261622f1c6661/transformed/jetified-transport-backend-cct-3.1.6/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.6] /Users/minerootsios/.gradle/caches/transforms-3/ee4512de40dca2392037e71878f982c5/transformed/jetified-transport-runtime-3.1.6/AndroidManifest.xml:33:13-132
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] /Users/minerootsios/.gradle/caches/transforms-3/56cf87383b47f925a9a84e4e4aa7e72d/transformed/jetified-firebase-installations-17.0.1/AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] /Users/minerootsios/.gradle/caches/transforms-3/e80b5713a9aca5f2ac6c4c84b5f8054e/transformed/jetified-firebase-common-20.1.1/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.2.0] /Users/minerootsios/.gradle/caches/transforms-3/95a8d95d27d5b7be77f11fea0f00c8d9/transformed/jetified-play-services-auth-20.2.0/AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/minerootsios/.gradle/caches/transforms-3/98f1bd229cea664aa6616e02c7b27c48/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/d93cbb0ea9581162dab3b7ef64476bd2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/minerootsios/.gradle/caches/transforms-3/7d3942e1b20951d19f5f8c549fceff6d/transformed/jetified-android-maps-utils-0.5/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/minerootsios/.gradle/caches/transforms-3/512914b8d9b82eb8593d33a6dfad8847/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/minerootsios/.gradle/caches/transforms-3/3855e86993f9e9d76271121a8a565bde/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/minerootsios/.gradle/caches/transforms-3/627724116dccf7254b15f3cd23b27d38/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/minerootsios/.gradle/caches/transforms-3/9a851fe7991f68035ab26fc7083710db/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/minerootsios/.gradle/caches/transforms-3/ffe107a4c6bed57122fa16e36f9d5d43/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86

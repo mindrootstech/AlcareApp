@@ -1,0 +1,6 @@
+module Pods_Alcare_AlcareTests {
+  umbrella header "Pods-Alcare-AlcareTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

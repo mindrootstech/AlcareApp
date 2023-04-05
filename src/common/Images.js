@@ -1,0 +1,35 @@
+const Images = {
+  calculationIcon: require('../assets/calculationIcon.png'),
+  settingIcon: require('../assets/settingIcon.png'),
+  homeIcon: require('../assets/homeIcon.png'),
+  ClientViewIcon: require('../assets/calculationIcon.png'),
+  activeHomeTab: require('../assets/activeHomeTab.png'),
+  activeViewClient: require('../assets/activeViewClient.png'),
+  activeCalculationTab: require('../assets/activeCalculationTab.png'),
+  activeSettingTab: require('../assets/activeSettingTab.png'),
+  addClientIcon: require('../assets/addClientIcon.png'),
+  ClientViewIcon: require('../assets/ClientViewIcon.png'),
+  curvedTabBackground: require('../assets/curvedTabBarBackground.png'),
+  plus_Icon: require('../assets/plus_Icon.png'),
+  minusIcon: require('../assets/minusIcon.png'),
+  redSlideIcon: require('../assets/redArrow.png'),
+  slideIcon: require('../assets/slideIcon.png'),
+  addExpenseIcon: require('../assets/addExpenseIcon.png'),
+  addNotesIcon: require('../assets/addNotesIcon.png'),
+  camera:require('../assets/camera.png'),
+  calender:require('../assets/calender.png'),
+  crossBlack:require('../assets/crossBlack.png'),
+  greenBttn:require('../assets/greenBttn.png'),
+  redBttn:require('../assets/redBttn.png'),
+  eyeIcon:require('../assets/Eye.png'),
+  cutEye:require('../assets/CutEye.png'),
+  clossEye:require('../assets/clossEye.png'),
+  noNotifyImg:require('../assets/noNotify.png'),
+  // notifyImage:require('../assets/NoNotificationImg')
+  noNotifyPic:require('../assets/noNotifypic.png'),
+  privacyPolicy1:require('../assets/Privacy.png'),
+  privacyIcon:require('../assets/privacyIcon.png'),
+  placeProfile:require('../assets/placeProfile.png')
+
+}
+export default Images
