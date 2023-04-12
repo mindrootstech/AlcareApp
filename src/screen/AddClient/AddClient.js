@@ -15,7 +15,7 @@ import CommonNavigationHeader from '../../Components/CommonNavigationHeader'
 import { Colors } from '../../common/Colors'
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view'
 import CommonBottomButton from '../../Components/CommonBottomButton'
-import CommonTextAndInput from '../../Components/CommonTextAndInput'
+import CommonTextAndInput1 from '../../Components/CommonTextAndInput1'
 import { FontStyles } from '../../common/FontStyle'
 import { create_clients_url, view_clients_url } from '../../network/Urls'
 import { postWithParam } from '../../network'
@@ -26,21 +26,21 @@ import SelectDropdown from 'react-native-select-dropdown'
 import ModalClientContacts from '../../Modal/ModalClientContacts'
 
 const AddClient = ({ navigation }) => {
-  const [showHospital, setShowHospital] = useState(false)
-  const [showPharma, setShowPharma] = useState(false)
-  const orgNameRef = useRef(null)
-  const emailRef = useRef('')
-  const contactRef = useRef('')
-  const addressRef = useRef('')
-  // const isNavigate = useRef(false)
   const [isShownLoader, setShownLoader] = useState(false)
   const useFocused = useIsFocused()
-  const [strOrganisationAddress, setOrganisationAddress] = useState('Select Address')
+  const [strOrganisationAddress, setOrganisationAddress] =
+    useState('Select Address')
   const [organizationType, setOrganizationType] = useState('')
-  const [isNavigatedToMap, setIsNavigatedToMap] = useState(false)
+
   const [latLongDict, setLatLongDict] = useState({})
   const [isModelPresented, setIsModelPresented] = useState(false)
   const [userList, setUserList] = useState([])
+
+  const [userDictInfo, setUserDictInfo] = useState({
+    organizationName: '',
+    emailAddress: '',
+    contactNumber: '',
+  })
 
   const arrTypes = [
     'Hospital',
@@ -50,97 +50,58 @@ const AddClient = ({ navigation }) => {
     'Hospitality',
     'Others',
   ]
-
   useEffect(() => {
-    console.log('=======')
-    return () => {
-      if (
-        global.isComingFromMapScreen == undefined ||
-        global.isComingFromMapScreen == false
-      ) {
-        console.log('ssssssss======')
-        if (orgNameRef.current != null) {
-          orgNameRef.current.value == ''
-          orgNameRef.current.clear()
-        }
-        if (emailRef.current != null) {
-          emailRef.current.value == ''
-          emailRef.current.clear()
-        }
-        if (contactRef.current != null) {
-          contactRef.current.value == ''
-          contactRef.current.clear()
-        }
-        if (strOrganisationAddress != 'Select Address') {
-          setOrganisationAddress('Select Address')
-        }
-        if (userList.length != 0) {
-          setUserList([])
-        }
-        // if (showHospital) {
-        //   setShowHospital(false)
-        // }
-        // if (showPharma) {
-        //   setShowPharma(false)
-        // }
-      } else if (
-        global.isComingBackFromMapScreen != undefined &&
-        global.isComingBackFromMapScreen == true
-      ) {
-        global.isComingFromMapScreen = false
-        global.isComingBackFromMapScreen = false
-      }
+    console.log(global.isComingFromMapScreen)
+    if (useFocused && global.isComingFromMapScreen !== true) {
+      setUserDictInfo(prevState => ({
+        ...prevState,
+        organizationName: '',
+        emailAddress: '',
+        contactNumber: '',
+      }))
+      setOrganizationType('')
     }
   }, [useFocused])
 
   const onPressSubmit = () => {
     let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w\w+)+$/
+    const { organizationName, emailAddress, contactNumber } = {
+      ...userDictInfo,
+    }
 
     if (organizationType == '') {
       alert('Please select the Organization type')
-    } else if (
-      orgNameRef.current.value == '' ||
-      orgNameRef.current.value == undefined
-    ) {
-      alert('Please enter Organization name')
-    }
-    // else if (
-    //   emailRef.current.value == '' ||
-    //   emailRef.current.value == undefined
-    //   // reg.test(emailRef.current.value) === false
-    // ) 
-    // {
-    //   alert('Please enter your email ')
-    // }
-    // else if (reg.test(emailRef.current.value) === false) {
-
-    //   alert('Please enter correct email format')
-    // }
-    else if (emailRef.current.value != '' && emailRef.current.value != undefined) {
-      if (reg.test(emailRef.current.value) === false) {
-        alert('Please enter correct email format')
-      }
+      return
     }
 
-    else if (
-      contactRef.current.value == '' ||
-      contactRef.current.value == undefined
-
-    ) {
-      alert('Please enter your contact number')
+    if (!organizationName) {
+      alert('Please select the Organization name')
+      return
     }
-    else if (
-      contactRef.current.value.length < 10
-    ) {
-      alert('Please enter a valid contact number')
+    if (!emailAddress) {
+      alert('Please enter your email ')
+      return
+    }
+    if (reg.test(emailAddress) === false) {
+      alert('Please enter valid email-address ')
+      return
     }
 
-    else if (strOrganisationAddress == "Select Address") {
-      alert('Please enter Organization Address')
-
-    } else {
-      apiAddClient()
+    if (!contactNumber) {
+      alert('Please enter contact number ')
+      return
     }
+    if (contactNumber.length < 10) {
+      alert('Please enter correct contact number ')
+      return
+    }
+
+    if (strOrganisationAddress == 'Select Address') {
+      alert('Please enter Organization address ')
+      return
+    }
+
+    apiAddClient()
   }
 
   const orgTypeKey = orgType => {
@@ -165,27 +126,38 @@ const AddClient = ({ navigation }) => {
 
   const apiAddClient = async () => {
     setShownLoader(true)
-    let formdata = new FormData()
-    formdata.append('org_name', orgNameRef.current.value)
-    formdata.append('address', strOrganisationAddress)
-    formdata.append('lat', latLongDict.lat ? latLongDict.lat : 0.0)
-    formdata.append('long', latLongDict.long ? latLongDict.long : 0.0)
-    formdata.append('contact_no', contactRef.current.value)
-    formdata.append('email', emailRef.current.value)
-    formdata.append('type', orgTypeKey(organizationType))
-    formdata.append('contact_details', JSON.stringify(userList))
-    console.log('formdata===========', formdata)
+    let formData = new FormData()
+    formData.append('org_name', userDictInfo.organizationName)
+    formData.append('address', strOrganisationAddress)
+    formData.append('lat', latLongDict.lat ? latLongDict.lat : 0.0)
+    formData.append('long', latLongDict.long ? latLongDict.long : 0.0)
+    formData.append('contact_no', userDictInfo.contactNumber)
+    formData.append('email', userDictInfo.emailAddress)
+    formData.append('type', orgTypeKey(organizationType))
+    formData.append('contact_details', JSON.stringify(userList))
 
-    const response = await postWithParam(create_clients_url, formdata)
-
-    console.log('response1', response)
+    const response = await postWithParam(create_clients_url, formData)
 
     if (response.status == true) {
       apiViewClient()
       setShownLoader(false)
-      // setUserList([])
+
       Alert.alert('', 'Client added successfully', [
-        { text: 'OK', onPress: () => navigation.navigate('ViewClient') },
+        {
+          text: 'OK',
+          onPress: () => {
+            setUserDictInfo(prevState => ({
+              ...prevState,
+              organizationName: '',
+              emailAddress: '',
+              contactNumber: '',
+            }))
+            setOrganizationType('')
+            setOrganisationAddress('Select Address')
+            setUserList([])
+            navigation.navigate('ViewClient')
+          },
+        },
       ])
     } else {
       setShownLoader(false)
@@ -195,11 +167,7 @@ const AddClient = ({ navigation }) => {
 
   const apiViewClient = async () => {
     setShownLoader(true)
-
     const response = await postWithParam(view_clients_url)
-
-    console.log('response1:::::::::::', response)
-
     if (response.status == true) {
       setShownLoader(false)
       global.viewClientData = response.data.clients_detail
@@ -254,10 +222,9 @@ const AddClient = ({ navigation }) => {
 
     const data = [...userList]
     data.push(userDict)
-    console.log('--------data', data)
     setUserList(data)
   }
-  console.log('////...///', strOrganisationAddress)
+
   return (
     <View style={{ flex: 1 }}>
       <SafeAreaView
@@ -302,12 +269,14 @@ const AddClient = ({ navigation }) => {
                     )
                   }}
                   buttonTextStyle={{
-                    color: organizationType != "" ? Colors.black : Colors.colorLightGray,
+                    color:
+                      organizationType != ''
+                        ? Colors.black
+                        : Colors.colorLightGray,
 
                     textAlign: 'left',
                     // color: Colors.navigationTitle,
                     ...FontStyles.fontMontserrat_Regular13,
-
                   }}
                   rowTextStyle={styles.dropdownRowTextStyle}
                   dropdownStyle={{ width: '80%', borderRadius: 10 }}
@@ -323,37 +292,54 @@ const AddClient = ({ navigation }) => {
                   }}
                   defaultButtonText="Choose Type"
                 />
-                <CommonTextAndInput
+                <CommonTextAndInput1
                   textInputCommonStyle={styles.TextInput}
                   textCommonStyle={styles.TextInputTitle}
                   manualViewStyle={styles.TextInputStyle}
                   commonText="Organization Name"
-                  refInput={orgNameRef}
+                  value={userDictInfo.organizationName}
+                  onChangeText={text => {
+                    setUserDictInfo(prevState => ({
+                      ...prevState,
+                      organizationName: text,
+                    }))
+                  }}
                   placeholder="Organization Name"
                   autoCapitalizeProp={'sentences'}
-
                 />
 
-                <CommonTextAndInput
+                <CommonTextAndInput1
                   textInputCommonStyle={styles.TextInput}
                   textCommonStyle={styles.TextInputTitle}
                   manualViewStyle={styles.TextInputStyle}
                   commonText="Email Address"
-                  refInput={emailRef}
+                  onChangeText={text => {
+                    setUserDictInfo(prevState => ({
+                      ...prevState,
+                      emailAddress: text,
+                    }))
+                  }}
+                  value={userDictInfo.emailAddress}
                   keyboardType={'email-address'}
                   placeholder="Email Address"
                 />
 
-                <CommonTextAndInput
+                <CommonTextAndInput1
                   textInputCommonStyle={styles.TextInput}
                   textCommonStyle={styles.TextInputTitle}
                   manualViewStyle={styles.TextInputStyle}
                   commonText="Contact No."
-                  refInput={contactRef}
-                  maxLength={11}
-                  keyboardType={'numeric'}
+                  value={userDictInfo.contactNumber}
+                  onChangeText={text => {
+                    setUserDictInfo(prevState => ({
+                      ...prevState,
+                      contactNumber: text,
+                    }))
+                  }}
+                  returnKeyType="done"
+                  maxLength={10}
+                  keyboardType={'number-pad'}
                   placeholder="Contact No."
-                  returnKeyType='done'
                 />
 
                 <TouchableOpacity
@@ -362,20 +348,24 @@ const AddClient = ({ navigation }) => {
                   <Text style={styles.textOrgAddStyle}>
                     Organisation Address
                   </Text>
-                  <Text style={{
-                    color: strOrganisationAddress == "Select Address" ? Colors.colorLightGray : Colors.black,
+                  <Text
+                    style={{
+                      color:
+                        strOrganisationAddress == 'Select Address'
+                          ? Colors.colorLightGray
+                          : Colors.black,
 
-                    ...FontStyles.fontMontserrat_Regular13,
-                    borderRadius: 5,
-                    borderWidth: 0.5,
-                    borderColor: Colors.navigationTitle,
-                    paddingHorizontal: 15,
-                    paddingTop: 10,
-                    backgroundColor: 'white',
-                    height: 38,
-                    marginBottom: 15,
-
-                  }} numberOfLines={1}>
+                      ...FontStyles.fontMontserrat_Regular13,
+                      borderRadius: 5,
+                      borderWidth: 0.5,
+                      borderColor: Colors.navigationTitle,
+                      paddingHorizontal: 15,
+                      paddingTop: 10,
+                      backgroundColor: 'white',
+                      height: 38,
+                      marginBottom: 15,
+                    }}
+                    numberOfLines={1}>
                     {strOrganisationAddress}
                   </Text>
                 </TouchableOpacity>
@@ -499,7 +489,6 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     height: 38,
     marginBottom: 15,
-
   },
   imgDropdownArrow: {
     height: 8,

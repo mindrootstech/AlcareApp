@@ -59,7 +59,7 @@ const ViewClientListElement = props => {
     <TouchableOpacity onPress={onPressCell} activeOpacity={1}>
       <View style={{ paddingVertical: 5 }}>
         <View style={styles.viewClientListElementStyle}>
-           <Modal
+          <Modal
             animationType="slide"
             transparent={true}
             fullScreen={false}
@@ -70,7 +70,7 @@ const ViewClientListElement = props => {
               }}
               clientId={item.id}
             />
-          </Modal> 
+          </Modal>
           {/* <Modal
             animationType="slide"
             transparent={true}
@@ -87,14 +87,16 @@ const ViewClientListElement = props => {
           </Modal> */}
           <View
             style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
-            <Text numberOfLines={1}
+            <Text
+              numberOfLines={1}
               style={[
                 styles.textClientNameStyle,
                 { ...FontStyles.fontMontserrat_Medium17 },
               ]}>
               {item.org_name}
             </Text>
-            <Text numberOfLines={1}
+            <Text
+              numberOfLines={1}
               style={[
                 styles.textDateStyle1,
                 {
@@ -182,8 +184,12 @@ const ViewClient = ({ navigation }) => {
     }
   }, [useFocused])
 
-  const apiViewClient = async () => {
-    setShownLoader(true)
+  const apiViewClient = async (refreshLoad = false) => {
+    if (refreshLoad == true) {
+      setShownLoader(false)
+    } else {
+      setShownLoader(true)
+    }
 
     const response = await postWithParam(view_clients_url)
 
@@ -219,8 +225,11 @@ const ViewClient = ({ navigation }) => {
 
   const onRefresh = React.useCallback(() => {
     setRefreshing(true)
-    apiViewClient()
-    wait(2000).then(() => setRefreshing(false))
+    apiViewClient(true)
+    // wait(2000).then(() => setRefreshing(false))
+    setTimeout(() => {
+      setRefreshing(false)
+    }, 1000)
   }, [])
 
   return (
@@ -247,7 +256,7 @@ const ViewClient = ({ navigation }) => {
               placeholderTextColor={Colors.borderColor}
               style={[
                 styles.textInputSearchStyle,
-                { ...FontStyles.fontMontserrat_semibold15,color:'black' },
+                { ...FontStyles.fontMontserrat_semibold15, color: 'black' },
               ]}
               onChangeText={text => onChangeSearchText(text)}
             />
@@ -257,7 +266,7 @@ const ViewClient = ({ navigation }) => {
             />
           </View>
         </View>
-        
+
         {clientDetailArrayForSearch != undefined &&
           clientDetailArrayForSearch.length == 0 && (
             <View style={styles.viewStyleNoData}>
@@ -338,7 +347,7 @@ const styles = StyleSheet.create({
     width: '90%',
     fontWeight: '400',
     fontSize: 14,
-  textDecorationLine:'none'
+    textDecorationLine: 'none',
   },
   imgLenceBlueStyle: {
     width: 18,
@@ -367,8 +376,7 @@ const styles = StyleSheet.create({
     fontWeight: '500',
     color: Colors.colorDarkGray,
     marginBottom: 5,
-    width:180,
-    
+    width: 180,
   },
   textClientAddressStyle: {
     fontWeight: '400',
@@ -399,7 +407,6 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     fontSize: 14,
     color: Colors.colorClientAddressText,
-    
   },
   viewStyleNoData: {
     width: '100%',
@@ -416,7 +423,6 @@ const styles = StyleSheet.create({
     fontWeight: '400',
     fontSize: 14,
     color: Colors.colorClientAddressText,
-   
   },
 })
 

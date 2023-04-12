@@ -6,6 +6,7 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9a29f2957272c7e9553110b5b28b3c26/transformed/webkit-1.4.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

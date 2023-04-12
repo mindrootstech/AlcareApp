@@ -31,11 +31,10 @@ const Login = ({ navigation }) => {
   const emailRef = useRef('')
   const passwordRef = useRef('')
   const [isShownLoader, setShownLoader] = useState(false)
- 
- 
+
   const [showpass, setshowpass] = useState(true)
 
-  const showPassword=()=>{
+  const showPassword = () => {
     setshowpass(!showpass)
   }
 
@@ -46,32 +45,19 @@ const Login = ({ navigation }) => {
 
   const onLoginPress = () => {
     let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w\w+)+$/
-
-    if (
-      emailRef.current.value == '' ||
-      emailRef.current.value == undefined 
-    
-    ) {
+    console.log(emailRef.current.value)
+    if (emailRef.current.value == '' || emailRef.current.value == undefined) {
       alert('Please enter your email address')
-    } else if (
-      reg.test(emailRef.current.value) === false
-    ){
+    } else if (reg.test(emailRef.current.value) === false) {
       alert('Please enter a correct email format ')
-    }
-    
-    else if (
+    } else if (
       passwordRef.current.value == '' ||
-      passwordRef.current.value == undefined 
-     
+      passwordRef.current.value == undefined
     ) {
       alert('Please enter the password')
-    }
-    else if (
-      passwordRef.current.value.length < 6
-    ){
+    } else if (passwordRef.current.value.length < 6) {
       alert('Please fill the valid password with more than 5 Character')
-    }
-    else {
+    } else {
       apiLogin()
     }
   }
@@ -126,7 +112,7 @@ const Login = ({ navigation }) => {
             refInput={emailRef}
             keyboardType={'email-address'}
           />
-         
+
           <CommonTextAndInput
             manualViewStyle={{ marginTop: 18 }}
             // isSecureTextEntry={true}
@@ -135,13 +121,13 @@ const Login = ({ navigation }) => {
             refInput={passwordRef}
             isSecureTextEntry={showpass}
             showPswrdIcon={true}
-            onPressbttn={()=>showPassword()}
-            images={showpass === true?Images.clossEye:Images.eyeIcon}
+            onPressbttn={() => showPassword()}
+            images={showpass === true ? Images.clossEye : Images.eyeIcon}
           />
           {/* <TouchableOpacity onPress={() => setshowpass(!showpass)}>
             <Image style={styles.eyeIcon} source={Images.eyeIcon}>
             </Image></TouchableOpacity> */}
-         
+
           <TouchableOpacity
             onPress={() => navigation.navigate('ForgotPassword')}
             style={styles.btnForgotPasswordStyle}>
@@ -193,13 +179,11 @@ const styles = StyleSheet.create({
     marginBottom: 50,
     width: '100%',
   },
-  eyeIcon:{
-    width:25,
-    height:25,
-    resizeMode:"contain",
-   
-
-  }
+  eyeIcon: {
+    width: 25,
+    height: 25,
+    resizeMode: 'contain',
+  },
 })
 
 export default Login

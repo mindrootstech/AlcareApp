@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/minerootsios/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-no/values-no.xml",
+            "outputFile": "/Users/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-no/values-no.xml",
             "map": [
                 {
-                    "source": "/Users/minerootsios/alcare/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/release/values-no/values-no.xml",
+                    "source": "/Users/alcare/node_modules/react-native-date-picker/android/build/intermediates/packaged_res/release/values-no/values-no.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

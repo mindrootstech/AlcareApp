@@ -10,9 +10,11 @@
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6-native/9bee451907f13181e55eed3b4400e0272aa7df4/ucrop-2.2.6-native-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6-native/819162b13a0415d1a8228c8c396216eda5904a32/ucrop-2.2.6-native-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6-native/13b792e8cd052b8621475aa0de5e15b27f7d1764/ucrop-2.2.6-native-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.yalantis/ucrop/2.2.6-native/d3d1deda0f6ec2242c2aa2fc543e56928fd083b0/ucrop-2.2.6-native-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

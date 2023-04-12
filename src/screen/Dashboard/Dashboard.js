@@ -95,7 +95,7 @@ const Dashboard = ({ navigation }) => {
   }, [useFocused])
 
   useEffect(() => {
-    // checkVersionUpdate();
+    checkVersionUpdate();
   }, [])
 
   useEffect(() => {
@@ -114,7 +114,7 @@ const Dashboard = ({ navigation }) => {
       if (appState.current == 'active') {
         console.log('active')
         checkTypeKey()
-        // checkVersionUpdate()
+        checkVersionUpdate()
       }
     })
 

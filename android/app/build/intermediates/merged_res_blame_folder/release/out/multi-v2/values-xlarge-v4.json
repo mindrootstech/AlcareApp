@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/minerootsios/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
+            "outputFile": "/Users/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml",
             "map": [
                 {
-                    "source": "/Users/minerootsios/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",
+                    "source": "/Users/mindroots/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/res/values-xlarge-v4/values-xlarge-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

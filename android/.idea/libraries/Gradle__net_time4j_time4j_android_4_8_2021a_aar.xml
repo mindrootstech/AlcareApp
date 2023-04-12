@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b78523c8681fad5b8524a61031abe6a/transformed/jetified-time4j-android-4.8-2021a/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.time4j/time4j-android/4.8-2021a/1569630ca2534f2fa9611239ca6e12389172fa99/time4j-android-4.8-2021a-javadoc.jar!/" />

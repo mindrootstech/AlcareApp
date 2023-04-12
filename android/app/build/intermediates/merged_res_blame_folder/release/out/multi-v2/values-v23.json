@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/minerootsios/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "/Users/alcare/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/minerootsios/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,121",
-                        "endColumns": "65,62",
-                        "endOffsets": "116,179"
-                    }
-                },
-                {
-                    "source": "/Users/minerootsios/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/mindroots/.gradle/caches/transforms-3/0ff1e4888fd7eba473ee58a30b602b04/transformed/material-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",
@@ -33,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/minerootsios/.gradle/caches/transforms-3/165282b76c0906d4ff23dc1c8666ef1a/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/mindroots/.gradle/caches/transforms-3/165282b76c0906d4ff23dc1c8666ef1a/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "/Users/minerootsios/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/mindroots/.gradle/caches/transforms-3/7c0ae3814983ff0e137004a97701a987/transformed/appcompat-1.1.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -68,6 +58,16 @@
                         "endLines": "4,5,6,7,21,35,36,37,38,42,43,44,45,49",
                         "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
                         "endOffsets": "314,449,524,611,1495,2391,2510,2637,2742,2966,3081,3188,3301,3531"
+                    }
+                },
+                {
+                    "source": "/Users/mindroots/.gradle/caches/transforms-3/1e29a83d32e267fb8559a30ebfe623c2/transformed/work-runtime-2.7.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
                     }
                 }
             ]

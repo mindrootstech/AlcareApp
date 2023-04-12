@@ -1,96 +1,61 @@
-import React, { useState, useRef, useEffect } from 'react'
-import {
-  View,
-  Image,
-  FlatList,
-  Alert,
-  Modal,
-  Platform,
-  TouchableOpacity,
-  Text,
-  StyleSheet,
-  TextInput,
-  Keyboard,
-} from 'react-native'
+import React, { useState } from 'react'
+import { View, Image, Alert, TouchableOpacity, StyleSheet } from 'react-native'
 import CommonBottomButton from '../Components/CommonBottomButton'
-import ActionSheet from 'react-native-actionsheet'
+
 import { Colors } from '../common/Colors'
-import Loader from '../network/Loader'
+
 import { FontStyles } from '../common/FontStyle'
-import CommonTextAndInput from '../Components/CommonTextAndInput'
+
 import { Shadow } from '../common/Shadow'
 import { KeyboardAwareScrollView } from 'react-native-keyboard-aware-scroll-view'
+import CommonTextAndInput1 from '../Components/CommonTextAndInput1'
 
 const ModalClientContacts = props => {
   const { onPressNotes, onSubmit } = props
-  const [isShownLoader, setShownLoader] = useState(false)
-  const firstNameRef = useRef(null)
-  const lastNameRef = useRef('')
-  const emailRef = useRef('')
-  const contactNumberRef = useRef('')
-  const designationRef = useRef('')
 
-  // First, last name, email, contact number, designation
+  const [dictUserInfo, setUserDictInfo] = useState({
+    first_name: '',
+    last_name: '',
+    detail_email: '',
+    detail_contact: '',
+    designation: '',
+  })
+
   const onPressSubmit = () => {
+    const { first_name, last_name, detail_email, detail_contact, designation } =
+      { ...dictUserInfo }
     let reg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w\w+)+$/
-    if (
-      firstNameRef.current.value == undefined ||
-      firstNameRef.current.value == ''
-    ) {
-      alert('Please enter first name')
-    }   else if (
-      lastNameRef.current.value == undefined ||
-      lastNameRef.current.value == '' 
-      ) {
-      alert('Please enter last name')
-    } 
-    // else if (
-    //   emailRef.current.value == undefined ||
-    //   emailRef.current.value == '' 
-     
-    // ) {
-    //   alert('Please enter your email ')
-    // } 
-    else if (emailRef.current.value != '' && emailRef.current.value != undefined) {
-      if (reg.test(emailRef.current.value) === false) {
-        alert('Please enter correct email format')
-      }
+    if (!first_name) {
+      Alert.alert('', 'Please enter first name')
+      return
     }
-    // else if(
-    //   reg.test(emailRef.current.value) === false
-    // ){
-    //   alert('Please enter a corrrect email format')
-    // }
-    else if (
-      contactNumberRef.current.value == undefined ||
-      contactNumberRef.current.value == '' 
-     
-    ) {
-      alert('Please enter your contact number')
+    if (!last_name) {
+      Alert.alert('', 'Please enter last name')
+      return
     }
-    else if (
-      contactNumberRef.current.value.length < 10
-    ){
-      alert('Please enter a valid contact number')
+    if (!detail_email) {
+      Alert.alert('', 'Please enter email-address')
+      return
     }
-    else if (
-      designationRef.current.value == undefined ||
-      designationRef.current.value == ''
-    ) {
-      alert('Please enter designation')
-    } else {
-      const userData = {
-        first_name: firstNameRef.current.value,
-        last_name:
-          lastNameRef.current.value == undefined
-            ? ''
-            : lastNameRef.current.value,
-        detail_contact: contactNumberRef.current.value,
-        detail_email: emailRef.current.value,
-        designation: designationRef.current.value,
-      }
-      onSubmit(userData)
+
+    if (reg.test(detail_email) === false) {
+      Alert.alert('', 'Please enter correct email-address')
+      return
     }
+
+    if (!detail_contact) {
+      Alert.alert('', 'Please enter contact number')
+      return
+    }
+    if (detail_contact.length < 10) {
+      Alert.alert('', 'Please enter correct contact number')
+      return
+    }
+    if (!designation) {
+      Alert.alert('', 'Please enter designation')
+      return
+    }
+    onSubmit(dictUserInfo)
   }
 
   return (
@@ -114,48 +79,73 @@ const ModalClientContacts = props => {
           enableAutomaticScroll={true}>
           <View style={{ padding: 4 }}>
             <View style={styles.TextInputView}>
-              <CommonTextAndInput
+              <CommonTextAndInput1
                 textInputCommonStyle={styles.TextInput}
                 textCommonStyle={styles.TextInputTitle}
                 manualViewStyle={styles.TextInputStyle}
                 commonText="First Name"
-                refInput={firstNameRef}
+                onChangeText={text => {
+                  setUserDictInfo(prevState => ({
+                    ...prevState,
+                    first_name: text,
+                  }))
+                }}
                 placeholder="Enter First Name"
                 autoCapitalizeProp={'sentences'}
               />
-              <CommonTextAndInput
+              <CommonTextAndInput1
                 textInputCommonStyle={styles.TextInput}
                 textCommonStyle={styles.TextInputTitle}
                 manualViewStyle={styles.TextInputStyle}
                 commonText="Last Name"
-                refInput={lastNameRef}
+                onChangeText={text => {
+                  setUserDictInfo(prevState => ({
+                    ...prevState,
+                    last_name: text,
+                  }))
+                }}
                 placeholder="Enter Last Name"
               />
-              <CommonTextAndInput
+              <CommonTextAndInput1
                 textInputCommonStyle={styles.TextInput}
                 textCommonStyle={styles.TextInputTitle}
                 manualViewStyle={styles.TextInputStyle}
                 commonText="Email Address"
-                refInput={emailRef}
+                onChangeText={text => {
+                  setUserDictInfo(prevState => ({
+                    ...prevState,
+                    detail_email: text,
+                  }))
+                }}
                 keyboardType={'email-address'}
                 placeholder=" Enter Email Address"
               />
-              <CommonTextAndInput
+              <CommonTextAndInput1
                 textInputCommonStyle={styles.TextInput}
                 textCommonStyle={styles.TextInputTitle}
                 manualViewStyle={[styles.TextInputStyle]}
                 commonText="Contact No."
-                refInput={contactNumberRef}
-                maxLength={11}
-                keyboardType={'numeric'}
+                onChangeText={text => {
+                  setUserDictInfo(prevState => ({
+                    ...prevState,
+                    detail_contact: text,
+                  }))
+                }}
+                maxLength={10}
+                keyboardType={'number-pad'}
                 placeholder="Enter Contact No."
               />
-              <CommonTextAndInput
+              <CommonTextAndInput1
                 textInputCommonStyle={styles.TextInput}
                 textCommonStyle={styles.TextInputTitle}
                 manualViewStyle={[styles.TextInputStyle, { marginBottom: 20 }]}
                 commonText="Designation"
-                refInput={designationRef}
+                onChangeText={text => {
+                  setUserDictInfo(prevState => ({
+                    ...prevState,
+                    designation: text,
+                  }))
+                }}
                 placeholder="Enter Designation"
               />
 
@@ -169,8 +159,6 @@ const ModalClientContacts = props => {
           </View>
         </KeyboardAwareScrollView>
       </View>
-
-      <Loader isLoading={isShownLoader} />
     </View>
   )
 }

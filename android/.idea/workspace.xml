@@ -16,47 +16,24 @@
     <list default="true" id="cc6f9880-a342-4577-afb9-ee0d081ea893" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/release/app-release.aab" beforeDir="false" afterPath="$PROJECT_DIR$/app/release/app-release.aab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/index.android.bundle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ios/Alcare.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/114.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/120-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/120.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/120.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/180.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/29.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/40.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/57.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/58.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/60.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/80.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/87.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Alcare/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Alcare/Info.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Components/CommonTextAndInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Components/CommonTextAndInput.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/Modal/ModalClientContacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Modal/ModalClientContacts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/Modal/ModalImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/Modal/ModalImage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/common/Images.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/common/Images.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/navigation/Routs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/navigation/Routs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/network/Urls.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/network/Urls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/network/NetworkUtills.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/network/NetworkUtills.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/network/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/network/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/screen/AddClient/AddClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/AddClient/AddClient.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screen/AddExpense/AddExpense.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/AddExpense/AddExpense.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/screen/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Dashboard/Dashboard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screen/Dashboard/Parent.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Dashboard/Parent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screen/Profile/EditProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Profile/EditProfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screen/Profile/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Profile/Profile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/screen/Profile/ProfileStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Profile/ProfileStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/screen/PendingFollowUps/PendingFollowUps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/PendingFollowUps/PendingFollowUps.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/screen/ViewClient/ViewClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/screen/ViewClient/ViewClient.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/minerootsios/.android/avd/Pixel_XL_API_32.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/mindroots/.android/avd/Pixel_XL_API_31.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -106,7 +83,6 @@
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
       <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
-      <option name="CLEAR_APP_STORAGE" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -146,7 +122,6 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
         <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
         <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
-        <option name="PROFILING_MODE" value="NOT_SET" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -178,5 +153,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -1763,6 +1763,7 @@ drawable src_assets_settingicon
 drawable src_assets_slideicon
 drawable src_assets_tickicon
 drawable src_assets_trash
+drawable src_assets_trashbinblue
 drawable src_assets_user
 drawable src_assets_whitepencil
 drawable test_custom_background
